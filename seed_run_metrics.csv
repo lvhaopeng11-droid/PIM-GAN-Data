@@ -1,0 +1,6 @@
+seed,training_run_id,checkpoint_id,split_fingerprint,fid,is,s2_rmse,area_mae_pp_885,width_mae_um_885,evaluation_protocol_id,n_generated,n_experimental
+42,run_001_reference,pimgan_checkpoint_seed42.pth,parent_split_sha256_v1,7.9,7.58,0.026,0.23,0.078,fixed_test_and_external_885,20,20
+43,run_002,pimgan_checkpoint_seed43.pth,parent_split_sha256_v1,7.747,7.433,0.024,0.2113,0.0728,fixed_test_and_external_885,20,20
+44,run_003,pimgan_checkpoint_seed44.pth,parent_split_sha256_v1,8.114,7.468,0.0287,0.2543,0.085,fixed_test_and_external_885,20,20
+45,run_004,pimgan_checkpoint_seed45.pth,parent_split_sha256_v1,7.811,7.613,0.0249,0.22,0.0753,fixed_test_and_external_885,20,20
+46,run_005,pimgan_checkpoint_seed46.pth,parent_split_sha256_v1,8.038,7.596,0.0274,0.2434,0.0819,fixed_test_and_external_885,20,20

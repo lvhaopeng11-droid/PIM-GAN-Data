@@ -1,0 +1,157 @@
+condition_id,route_id,step_index,process_type,temperature_c,duration_min,held_out_series,notes
+COND_01,R_01,1,solution,900,30,False,900C 30min base single-step
+COND_01,R_01,2,aging_1,720,480,False,Standard aging step 1 (8h)
+COND_01,R_01,3,aging_2,620,480,False,Standard aging step 2 (8h)
+COND_02,R_02,1,solution,900,60,False,900C 60min base single-step
+COND_02,R_02,2,aging_1,720,480,False,Standard aging step 1 (8h)
+COND_02,R_02,3,aging_2,620,480,False,Standard aging step 2 (8h)
+COND_03,R_03,1,solution,900,90,False,900C 90min base single-step
+COND_03,R_03,2,aging_1,720,480,False,Standard aging step 1 (8h)
+COND_03,R_03,3,aging_2,620,480,False,Standard aging step 2 (8h)
+COND_04,R_04,1,solution,900,120,False,900C 120min base single-step
+COND_04,R_04,2,aging_1,720,480,False,Standard aging step 1 (8h)
+COND_04,R_04,3,aging_2,620,480,False,Standard aging step 2 (8h)
+COND_05,R_05,1,solution,900,150,False,900C 150min base single-step
+COND_05,R_05,2,aging_1,720,480,False,Standard aging step 1 (8h)
+COND_05,R_05,3,aging_2,620,480,False,Standard aging step 2 (8h)
+COND_06,R_06,1,solution,900,180,False,900C 180min base single-step
+COND_06,R_06,2,aging_1,720,480,False,Standard aging step 1 (8h)
+COND_06,R_06,3,aging_2,620,480,False,Standard aging step 2 (8h)
+COND_07,R_07,1,solution,930,30,False,930C 30min base single-step
+COND_07,R_07,2,aging_1,720,480,False,Standard aging step 1 (8h)
+COND_07,R_07,3,aging_2,620,480,False,Standard aging step 2 (8h)
+COND_08,R_08,1,solution,930,60,False,930C 60min base single-step
+COND_08,R_08,2,aging_1,720,480,False,Standard aging step 1 (8h)
+COND_08,R_08,3,aging_2,620,480,False,Standard aging step 2 (8h)
+COND_09,R_09,1,solution,930,90,False,930C 90min base single-step
+COND_09,R_09,2,aging_1,720,480,False,Standard aging step 1 (8h)
+COND_09,R_09,3,aging_2,620,480,False,Standard aging step 2 (8h)
+COND_10,R_10,1,solution,930,120,False,930C 120min base single-step
+COND_10,R_10,2,aging_1,720,480,False,Standard aging step 1 (8h)
+COND_10,R_10,3,aging_2,620,480,False,Standard aging step 2 (8h)
+COND_11,R_11,1,solution,930,150,False,930C 150min base single-step
+COND_11,R_11,2,aging_1,720,480,False,Standard aging step 1 (8h)
+COND_11,R_11,3,aging_2,620,480,False,Standard aging step 2 (8h)
+COND_12,R_12,1,solution,930,180,False,930C 180min base single-step
+COND_12,R_12,2,aging_1,720,480,False,Standard aging step 1 (8h)
+COND_12,R_12,3,aging_2,620,480,False,Standard aging step 2 (8h)
+COND_13,R_13,1,solution,940,30,False,940C 30min base single-step
+COND_13,R_13,2,aging_1,720,480,False,Standard aging step 1 (8h)
+COND_13,R_13,3,aging_2,620,480,False,Standard aging step 2 (8h)
+COND_14,R_14,1,solution,940,60,False,940C 60min base single-step
+COND_14,R_14,2,aging_1,720,480,False,Standard aging step 1 (8h)
+COND_14,R_14,3,aging_2,620,480,False,Standard aging step 2 (8h)
+COND_15,R_15,1,solution,940,90,False,940C 90min base single-step
+COND_15,R_15,2,aging_1,720,480,False,Standard aging step 1 (8h)
+COND_15,R_15,3,aging_2,620,480,False,Standard aging step 2 (8h)
+COND_16,R_16,1,solution,940,120,False,940C 120min base single-step
+COND_16,R_16,2,aging_1,720,480,False,Standard aging step 1 (8h)
+COND_16,R_16,3,aging_2,620,480,False,Standard aging step 2 (8h)
+COND_17,R_17,1,solution,940,150,False,940C 150min base single-step
+COND_17,R_17,2,aging_1,720,480,False,Standard aging step 1 (8h)
+COND_17,R_17,3,aging_2,620,480,False,Standard aging step 2 (8h)
+COND_18,R_18,1,solution,940,180,False,940C 180min base single-step
+COND_18,R_18,2,aging_1,720,480,False,Standard aging step 1 (8h)
+COND_18,R_18,3,aging_2,620,480,False,Standard aging step 2 (8h)
+COND_19,R_19,1,solution,950,30,False,950C 30min base single-step
+COND_19,R_19,2,aging_1,720,480,False,Standard aging step 1 (8h)
+COND_19,R_19,3,aging_2,620,480,False,Standard aging step 2 (8h)
+COND_20,R_20,1,solution,950,60,False,950C 60min base single-step
+COND_20,R_20,2,aging_1,720,480,False,Standard aging step 1 (8h)
+COND_20,R_20,3,aging_2,620,480,False,Standard aging step 2 (8h)
+COND_21,R_21,1,solution,950,90,False,950C 90min base single-step
+COND_21,R_21,2,aging_1,720,480,False,Standard aging step 1 (8h)
+COND_21,R_21,3,aging_2,620,480,False,Standard aging step 2 (8h)
+COND_22,R_22,1,solution,950,120,False,950C 120min base single-step
+COND_22,R_22,2,aging_1,720,480,False,Standard aging step 1 (8h)
+COND_22,R_22,3,aging_2,620,480,False,Standard aging step 2 (8h)
+COND_23,R_23,1,solution,950,150,False,950C 150min base single-step
+COND_23,R_23,2,aging_1,720,480,False,Standard aging step 1 (8h)
+COND_23,R_23,3,aging_2,620,480,False,Standard aging step 2 (8h)
+COND_24,R_24,1,solution,950,180,False,950C 180min base single-step
+COND_24,R_24,2,aging_1,720,480,False,Standard aging step 1 (8h)
+COND_24,R_24,3,aging_2,620,480,False,Standard aging step 2 (8h)
+COND_25,R_25,1,solution,970,30,False,970C 30min base single-step
+COND_25,R_25,2,aging_1,720,480,False,Standard aging step 1 (8h)
+COND_25,R_25,3,aging_2,620,480,False,Standard aging step 2 (8h)
+COND_26,R_26,1,solution,970,60,False,970C 60min base single-step
+COND_26,R_26,2,aging_1,720,480,False,Standard aging step 1 (8h)
+COND_26,R_26,3,aging_2,620,480,False,Standard aging step 2 (8h)
+COND_27,R_27,1,solution,970,90,False,970C 90min base single-step
+COND_27,R_27,2,aging_1,720,480,False,Standard aging step 1 (8h)
+COND_27,R_27,3,aging_2,620,480,False,Standard aging step 2 (8h)
+COND_28,R_28,1,solution,970,120,False,970C 120min base single-step
+COND_28,R_28,2,aging_1,720,480,False,Standard aging step 1 (8h)
+COND_28,R_28,3,aging_2,620,480,False,Standard aging step 2 (8h)
+COND_29,R_29,1,solution,970,150,False,970C 150min base single-step
+COND_29,R_29,2,aging_1,720,480,False,Standard aging step 1 (8h)
+COND_29,R_29,3,aging_2,620,480,False,Standard aging step 2 (8h)
+COND_30,R_30,1,solution,970,180,False,970C 180min base single-step
+COND_30,R_30,2,aging_1,720,480,False,Standard aging step 1 (8h)
+COND_30,R_30,3,aging_2,620,480,False,Standard aging step 2 (8h)
+COND_31,R_31,1,solution,990,30,False,990C 30min base single-step
+COND_31,R_31,2,aging_1,720,480,False,Standard aging step 1 (8h)
+COND_31,R_31,3,aging_2,620,480,False,Standard aging step 2 (8h)
+COND_32,R_32,1,solution,990,60,False,990C 60min base single-step
+COND_32,R_32,2,aging_1,720,480,False,Standard aging step 1 (8h)
+COND_32,R_32,3,aging_2,620,480,False,Standard aging step 2 (8h)
+COND_33,R_33,1,solution,990,90,False,990C 90min base single-step
+COND_33,R_33,2,aging_1,720,480,False,Standard aging step 1 (8h)
+COND_33,R_33,3,aging_2,620,480,False,Standard aging step 2 (8h)
+COND_34,R_34,1,solution,990,120,False,990C 120min base single-step
+COND_34,R_34,2,aging_1,720,480,False,Standard aging step 1 (8h)
+COND_34,R_34,3,aging_2,620,480,False,Standard aging step 2 (8h)
+COND_35,R_35,1,solution,990,150,False,990C 150min base single-step
+COND_35,R_35,2,aging_1,720,480,False,Standard aging step 1 (8h)
+COND_35,R_35,3,aging_2,620,480,False,Standard aging step 2 (8h)
+COND_36,R_36,1,solution,990,180,False,990C 180min base single-step
+COND_36,R_36,2,aging_1,720,480,False,Standard aging step 1 (8h)
+COND_36,R_36,3,aging_2,620,480,False,Standard aging step 2 (8h)
+COND_37,R_37,1,solution,960,60,False,Supplementary 60min (720C 6h)
+COND_37,R_37,2,aging_1,720,360,False,Aging step 1 (6h)
+COND_37,R_37,3,aging_2,620,480,False,Standard aging step 2 (8h)
+COND_38,R_38,1,solution,970,60,False,Supplementary 60min (720C 6h)
+COND_38,R_38,2,aging_1,720,360,False,Aging step 1 (6h)
+COND_38,R_38,3,aging_2,620,480,False,Standard aging step 2 (8h)
+COND_39,R_39,1,solution,990,60,False,Supplementary 60min (720C 6h)
+COND_39,R_39,2,aging_1,720,360,False,Aging step 1 (6h)
+COND_39,R_39,3,aging_2,620,480,False,Standard aging step 2 (8h)
+COND_40,R_40,1,solution,1000,60,False,Supplementary 60min (720C 8h)
+COND_40,R_40,2,aging_1,720,480,False,Aging step 1 (8h)
+COND_40,R_40,3,aging_2,620,480,False,Standard aging step 2 (8h)
+COND_41,R_41,1,solution,1020,60,False,Supplementary 60min (720C 6h)
+COND_41,R_41,2,aging_1,720,360,False,Aging step 1 (6h)
+COND_41,R_41,3,aging_2,620,480,False,Standard aging step 2 (8h)
+COND_42,R_42,1,solution_step1,970,90,False,Double solid solution step 1
+COND_42,R_42,2,solution_step2,970,90,False,Double solid solution step 2
+COND_42,R_42,3,aging_1,720,480,False,Standard aging step 1 (8h)
+COND_42,R_42,4,aging_2,620,480,False,Standard aging step 2 (8h)
+COND_43,R_43,1,solution_step1,980,60,False,Double solid solution step 1
+COND_43,R_43,2,solution_step2,980,60,False,Double solid solution step 2
+COND_43,R_43,3,aging_1,720,480,False,Standard aging step 1 (8h)
+COND_43,R_43,4,aging_2,620,480,False,Standard aging step 2 (8h)
+COND_44,R_44,1,solution_step1,970,60,False,Double solid solution step 1
+COND_44,R_44,2,solution_step2,980,60,False,Double solid solution step 2
+COND_44,R_44,3,aging_1,720,480,False,Standard aging step 1 (8h)
+COND_44,R_44,4,aging_2,620,480,False,Standard aging step 2 (8h)
+COND_45,R_45,1,solution,980,0,True,Level 2 Withheld 980C isothermal (0min)
+COND_45,R_45,2,aging_1,720,480,True,Level 2 Withheld aging step 1
+COND_45,R_45,3,aging_2,620,480,True,Level 2 Withheld aging step 2
+COND_46,R_46,1,solution,980,10,True,Level 2 Withheld 980C isothermal (10min)
+COND_46,R_46,2,aging_1,720,480,True,Level 2 Withheld aging step 1
+COND_46,R_46,3,aging_2,620,480,True,Level 2 Withheld aging step 2
+COND_47,R_47,1,solution,980,20,True,Level 2 Withheld 980C isothermal (20min)
+COND_47,R_47,2,aging_1,720,480,True,Level 2 Withheld aging step 1
+COND_47,R_47,3,aging_2,620,480,True,Level 2 Withheld aging step 2
+COND_48,R_48,1,solution,980,30,True,Level 2 Withheld 980C isothermal (30min)
+COND_48,R_48,2,aging_1,720,480,True,Level 2 Withheld aging step 1
+COND_48,R_48,3,aging_2,620,480,True,Level 2 Withheld aging step 2
+COND_49,R_49,1,solution,980,60,True,Level 2 Withheld 980C isothermal (60min)
+COND_49,R_49,2,aging_1,720,480,True,Level 2 Withheld aging step 1
+COND_49,R_49,3,aging_2,620,480,True,Level 2 Withheld aging step 2
+COND_50,R_50,1,solution,980,120,True,Level 2 Withheld 980C isothermal (120min)
+COND_50,R_50,2,aging_1,720,480,True,Level 2 Withheld aging step 1
+COND_50,R_50,3,aging_2,620,480,True,Level 2 Withheld aging step 2
+COND_51,R_51,1,solution,980,180,True,Level 2 Withheld 980C isothermal (180min)
+COND_51,R_51,2,aging_1,720,480,True,Level 2 Withheld aging step 1
+COND_51,R_51,3,aging_2,620,480,True,Level 2 Withheld aging step 2
